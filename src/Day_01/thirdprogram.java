@@ -5,7 +5,7 @@ public static void main(String[] args) {
 		
 		//Implicit Type casting
 		
-		int a = 10;
+		int a = 20;
 		float b = a;
 		System.out.println(b);
 		
